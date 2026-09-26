@@ -1,0 +1,1 @@
+sudo dnf install niri neovim visual-studio-code firefox quickshell btop cava kitty wine flatpak gimp vlc libreoffice obs-studio discover dolphin
