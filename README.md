@@ -16,4 +16,4 @@ VSCode
 Kitty terminal
 OBS
 
-Some distros may get more or less stuff, because the packages may not exist on the package manager of the distro the script is being run on.
+Some distros may get more or less stuff, because the packages may not exist on the package manager of the distro the script is being run on. I also don't know what packages other distros have.
